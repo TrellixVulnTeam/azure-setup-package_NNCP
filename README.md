@@ -4,7 +4,7 @@
 - Define a or more folder as packages. Each folder as a package, name folder present name package (what function?)
 - example: package name 'normalize' have 2 functions: clean columns (columns.py) & support spark (spark.py) in a folder have name is "normalize".
 ## Define setup.py
-<p>
+```
     name="normalize",
     version="0.0.6",
     author="Pham Manh",
@@ -20,5 +20,5 @@
     ],
     python_requires='>=3.7',
     install_requires = ['pandas']
-</p>
+```
 ## Set up
