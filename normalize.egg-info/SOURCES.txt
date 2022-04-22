@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+normalize/__init__.py
+normalize/columns.py
+normalize.egg-info/PKG-INFO
+normalize.egg-info/SOURCES.txt
+normalize.egg-info/dependency_links.txt
+normalize.egg-info/requires.txt
+normalize.egg-info/top_level.txt
